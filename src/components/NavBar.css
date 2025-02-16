@@ -1,0 +1,16 @@
+.bg-buttons{
+    justify-content: end;
+    margin-bottom: 1rem;
+  }
+
+button{
+    cursor: pointer;
+}
+
+.white-button{
+    background-color: #ffffff;
+}
+
+.black-button{
+    background-color: black;
+}
